@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#263238">
+    <ImageView
+    android:layout_width="150dp"
+    android:layout_height="150dp"
+    android:layout_centerInParent="true"
+    android:src="@android:drawable/ic_menu_mapmode"
+    android:contentDescription="Logo"
+    android:id="@+id/main"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="50dp"
+        android:text="QUAKE WATCH"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+</RelativeLayout>

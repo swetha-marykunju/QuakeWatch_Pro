@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QuakeWatch Pro</string>
+    <string name="title_activity_maps">Map View</string>
+</resources>
